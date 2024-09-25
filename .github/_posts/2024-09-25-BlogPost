@@ -1,0 +1,8 @@
+---
+title: "BlogPost"
+date: 2024-09-25
+---
+I am trying to learn github and figure out what I am doing. The following areas are places I am trying to improve
+1. Creating github actions to replace jenkins runs. 
+2. Migrating existing pipelines to github from jenkins/bitbucket. 
+3. Create actions to build host files. 
